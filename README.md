@@ -11,7 +11,7 @@ Specifically, Tim discussed:
 - demo'ing how to create wireframes/mockups with Balsamiq (with a license to give away)
 
 ## Slides
-The pptx file contains all of the slides and more importantly the relevant links from the presentation, including (but not limited to):
+The PPTX file contains all of the slides and more importantly the relevant links from the presentation, including (but not limited to):
 
 - [Wireframing, Prototyping, Mockuping - What's the Difference?](http://designmodo.com/wireframing-prototyping-mockuping/)
 - [WhiteLinks graph paper and smartphone app](http://whitelinks.se)
